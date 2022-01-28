@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DBSProject/static/css/main.27cb7cbd.chunk.css",
+    "main.js": "/DBSProject/static/js/main.b3c064d0.chunk.js",
+    "main.js.map": "/DBSProject/static/js/main.b3c064d0.chunk.js.map",
+    "runtime-main.js": "/DBSProject/static/js/runtime-main.32edb10d.js",
+    "runtime-main.js.map": "/DBSProject/static/js/runtime-main.32edb10d.js.map",
+    "static/css/2.74c02967.chunk.css": "/DBSProject/static/css/2.74c02967.chunk.css",
+    "static/js/2.64b10db1.chunk.js": "/DBSProject/static/js/2.64b10db1.chunk.js",
+    "static/js/2.64b10db1.chunk.js.map": "/DBSProject/static/js/2.64b10db1.chunk.js.map",
+    "index.html": "/DBSProject/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/DBSProject/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.27cb7cbd.chunk.css.map": "/DBSProject/static/css/main.27cb7cbd.chunk.css.map",
+    "static/js/2.64b10db1.chunk.js.LICENSE.txt": "/DBSProject/static/js/2.64b10db1.chunk.js.LICENSE.txt",
+    "static/media/img2.8b52d674.jpg": "/DBSProject/static/media/img2.8b52d674.jpg",
+    "static/media/img4.11b72801.jpg": "/DBSProject/static/media/img4.11b72801.jpg",
+    "static/media/user.205ad481.png": "/DBSProject/static/media/user.205ad481.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32edb10d.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.64b10db1.chunk.js",
+    "static/css/main.27cb7cbd.chunk.css",
+    "static/js/main.b3c064d0.chunk.js"
+  ]
+}
